@@ -6,10 +6,6 @@
 <h3 align="center">Manual QA Engineer | 3+ Years Experience | C++ / Python Developer</h3>
 
 <p align="center">
-  <img src="./header.gif" width="100%" />
-</p>
-
-<p align="center">
   <a href="PASTE_LINKEDIN_LINK_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
