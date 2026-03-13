@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.gif" width="100%" />
+</p>
 <h1 align="center">Hi 👋 I'm Valeriia Khramova</h1>
 
 <h3 align="center">Manual QA Engineer | 3+ Years Experience | C++ / Python Developer</h3>
