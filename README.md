@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Valeriia Khramova</h1>
 
-<!--
-**Gidproj/Gidproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Manual QA Engineer | 3+ Years Experience | C++ / Python Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./header.gif" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="PASTE_LINKEDIN_LINK_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Manual+QA+Engineer;C%2B%2B+Developer;Python+Developer;API+Testing+%7C+SQL+%7C+Automation+Mindset" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🔍 Manual QA Engineer with **3+ years of commercial experience**
+* 💻 Experienced in software validation, regression testing and product quality assurance
+* ⚡ Developing backend and programming expertise in **C++ and Python**
+* 🧠 Strong analytical thinking and defect investigation skills
+* 📈 Focused on quality, stability and product reliability
+
+---
+
+## 🛠 Core Technology Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### QA & Product Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge\&logo=youtrack\&logoColor=white)
+
+---
+
+### Databases & Environment
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🧪 QA Expertise
+
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* API Testing
+* UI Testing
+* Test Case Design
+* Bug Reporting
+* Requirements Analysis
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+
+---
+
+## ⚡ Professional Focus
+
+> Quality means delivering confidence, not just functionality.
+
+---
+
+## 📫 Contact
+
+* LinkedIn: PASTE_LINKEDIN_LINK_HERE
+
