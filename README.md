@@ -73,6 +73,6 @@
 
 ## 📫 Contact
 
-* LinkedIn: PASTE_LINKEDIN_LINK_HERE
+* LinkedIn: www.linkedin.com/in/valerya-hramowa-9853ba3b7
  ![snake animation](https://github.com/Gidproj/Gidproj/blob/output/github-contribution-grid-snake-dark.svg)
 
