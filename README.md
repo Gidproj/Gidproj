@@ -73,5 +73,5 @@
 ## 📫 Contact
 
 * LinkedIn: PASTE_LINKEDIN_LINK_HERE
-  ![snake animation](https://github.com/Gidproj/Gidproj/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/Gidproj/Gidproj/blob/output/github-contribution-grid-snake-dark.svg)
 
