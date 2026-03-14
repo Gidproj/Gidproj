@@ -1,3 +1,7 @@
+<h1 align="center">⚡ Gidproj Retro Profile ⚡</h1>
+![QA](https://img.shields.io/badge/QA-Engineer-purple?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 <p align="center">
   <img src="./header.gif" width="100%" />
 </p>
