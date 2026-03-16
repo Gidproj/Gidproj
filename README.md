@@ -7,9 +7,9 @@
 <h3 align="center">Manual QA Engineer | 3+ Years Experience | C++ / Python Developer</h3>
 
 <p align="center">
-  <a href= www.linkedin.com/in/valerya-hramova-7052143b7 >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/valerya-hramova-7052143b7">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
