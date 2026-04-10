@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Hi! I'm Valeria Khramova</h1>
 
-<h3 align="center">Manual QA Engineer | 3+ Years Experience | C++ / Python Developer</h3>
+<h3 align="center">Manual QA Engineer | 1+ Years Experience | Python Developer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/valerya-hramova-7052143b7">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-* 🔍 Manual QA Engineer with **3+ years of commercial experience**
+* 🔍 QA Engineer with **1+ years of commercial experience**
 * 💻 Experienced in software validation, regression testing and product quality assurance
 * ⚡ Developing backend and programming expertise in **C++ and Python**
 * 🧠 Strong analytical thinking and defect investigation skills
