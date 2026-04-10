@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Hi! I'm Valeria Khramova</h1>
 
-<h3 align="center">Manual QA Engineer | 1+ Years Experience | Python Developer</h3>
+<h3 align="center">QA Engineer | 1+ Years Experience | Python Developer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/valerya-hramova-7052143b7">
