@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Gidproj Retro Profile ⚡</h1>
+<h1 align="center">⚡ Gidproj Profile ⚡</h1>
 <p align="center">
   <img src="./header.gif" width="100%" />
 </p>
