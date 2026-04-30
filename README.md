@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Hi! I'm Valeria Khramova</h1>
 
-<h3 align="center">QA Engineer | 1+ Years Experience | Python Developer</h3>
+<h3 align="center">QA Engineer | 1+ Years Experience </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/valerya-hramova-7052143b7">
@@ -13,8 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Manual+QA+Engineer;C%2B%2B+Developer;Python+Developer;API+Testing+%7C+SQL+%7C+Automation+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Manual+QA+Engineer;Python+Developer;API+Testing+%7C+SQL+%7C+Automation+Mindset" />
 </p>
+
+
 
 ---
 
@@ -32,7 +34,6 @@
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
 
