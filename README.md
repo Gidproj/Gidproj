@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Gidproj Profile ⚡</h1>
 <p align="center">
-  <img src="./assets/animated_coder_room.gif" width="100%" />
+  <img src="./animated_coder_room.gif" width="100%" />
 </p>
 <h1 align="center"> Hi! I'm Valeria Khramova</h1>
 
